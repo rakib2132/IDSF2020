@@ -9,4 +9,4 @@
 
 ### This is third header in the markdown language ###
 
-![this is my picture](rakib.jpg=200)
+![this is my picture](rakib.jpg=200x)
