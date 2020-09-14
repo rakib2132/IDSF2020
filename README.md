@@ -9,4 +9,4 @@
 
 ### This is third header in the markdown language ###
 
-![this is my picture](rakib.jpg){ width=50% }
+![this is my picture](rakib.jpg){:height="36px" width="36px"}
