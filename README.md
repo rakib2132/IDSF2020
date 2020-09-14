@@ -10,3 +10,4 @@
 ### This is third header in the markdown language ###
 
 ![this is my picture](rakib.jpg)
+<img src="rakib.jpg" alt="drawing" width="200"/>
