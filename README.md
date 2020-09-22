@@ -7,13 +7,13 @@ error: Cannot delete brach 'test' checked out at 'C:/Users/Documents/git/IDS2020
 
 **Name:** Rakib Hossain  
 **School ID:** 1001514252
-**Department:** major in Mathematics minor in Computer Science
+**Department:** major in Mathematics minor in Computer Science  
 **University:** University of Texas at Arlington  
-**Level:** Junior (3rd Year)
+**Level:** Junior (3rd Year)  
 **Position Title:** Student  
 **Course Webpage:** https://www.cdslab.org/IDS2020F/  
 **Photo:**  
-[<img src="rakib.jpg" width="250"/>](rakib.jpg)
+[<img src="rakib.jpg" width="250"/>](rakib.jpg) 
 
 This repository contains my homework, quizzes, and virtually every effort that I have made for <course name>. The structure of the project is the following:
 
