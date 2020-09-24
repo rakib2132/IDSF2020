@@ -223,44 +223,60 @@ $ git branch
 
 ```
 
-## Problem Part 2.Q   
+## Problem Part 2.Q
 
-```bash   
-#### The different message because when you try to delete test1 inside the test2 you can not be able to do it because   
-#### test1 and test2 created from master branch so if you want to delete test1 and test2 you have to go to master branch first   
-
-
-```   
-## Problem Part 2.R   
-
-```bash   
-Home@DESKTOP-FFMCP9F MINGW64 ~/Desktop/Git/DSP2020F/IDSF2020/hw/VCS (test2)     
-$ git branch -d test2   
-error: Cannot delete branch 'test2' checked out at 'C:/Users/Home/Desktop/Git/DSP2020F/IDSF2020'   
+```bash
+#### The different message because when you try to delete test1 inside the test2 you can not be able to do it because
+#### test1 and test2 created from master branch so if you want to delete test1 and test2 you have to go to master branch first
 
 
+```
 
-```  
+## Problem Part 2.R
 
-## Problem Part 2.S   
+```bash
+Home@DESKTOP-FFMCP9F MINGW64 ~/Desktop/Git/DSP2020F/IDSF2020/hw/VCS (test2)
+$ git branch -d test2
+error: Cannot delete branch 'test2' checked out at 'C:/Users/Home/Desktop/Git/DSP2020F/IDSF2020'
 
-```bash   
-Home@DESKTOP-FFMCP9F MINGW64 ~/Desktop/Git/DSP2020F/IDSF2020/hw/VCS (master)   
-$ git branch -d test2   
-Deleted branch test2 (was 4f7a7a2).   
-Home@DESKTOP-FFMCP9F MINGW64 ~/Desktop/Git/DSP2020F/IDSF2020/hw/VCS (master)   
-$ git branch   
-* master   
-   
-```  
-## Problem Part 2.T   
 
-```bash   
-Home@DESKTOP-FFMCP9F MINGW64 ~/Desktop/Git/DSP2020F/IDSF2020/hw/VCS (master)   
-$ git branch -d test2   
-Deleted branch test2 (was 4f7a7a2).   
-Home@DESKTOP-FFMCP9F MINGW64 ~/Desktop/Git/DSP2020F/IDSF2020/hw/VCS (master)   
-$ git branch   
-* master   
-   
-```  
+
+```
+
+## Problem Part 2.S
+
+```bash
+Home@DESKTOP-FFMCP9F MINGW64 ~/Desktop/Git/DSP2020F/IDSF2020/hw/VCS (master)
+$ git branch -d test2
+Deleted branch test2 (was 4f7a7a2).
+Home@DESKTOP-FFMCP9F MINGW64 ~/Desktop/Git/DSP2020F/IDSF2020/hw/VCS (master)
+$ git branch
+* master
+
+```
+
+## Problem Part 2.T
+
+```bash
+Home@DESKTOP-FFMCP9F MINGW64 ~/Desktop/Git/DSP2020F/IDSF2020/hw/VCS (master)
+$ git add --all
+
+Home@DESKTOP-FFMCP9F MINGW64 ~/Desktop/Git/DSP2020F/IDSF2020/hw/VCS (master)
+$ git commit -m 'Finish the project and about to push it'
+[master a882002] Finish the project and about to push it
+ 1 file changed, 266 insertions(+)
+ create mode 100644 hw/VCS/README.md
+Home@DESKTOP-FFMCP9F MINGW64 ~/Desktop/Git/DSP2020F/IDSF2020/hw/VCS (master)
+$ git push --all
+Enumerating objects: 22, done.
+Counting objects: 100% (22/22), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (14/14), done.
+Writing objects: 100% (20/20), 3.01 KiB | 280.00 KiB/s, done.
+Total 20 (delta 5), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (5/5), completed with 1 local object.
+To https://github.com/rakib2132/IDSF2020.git
+   020905c..a882002  master -> master
+
+
+```
