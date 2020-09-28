@@ -1,1 +1,48 @@
-this is the quiz folder
+#Quiz Number One
+
+(1)  
+A, D, G, F, I
+
+(2)
+
+B, C
+
+(3)
+
+git help -a
+
+4(A)
+
+Assembly
+
+4(B)  
+Yes. An Assembler interprets the program for the machine code.
+
+5(a)
+
+Fortran
+
+(B)  
+in 1950s
+
+6(a)  
+Assembly  
+(b)  
+3rd, 3rd, 3rd, 4th, 4th, 4th
+
+(7)  
+1970s, 1980s, 1980s, 1990s
+
+(8)  
+B
+
+(9)  
+C, Simula
+
+(10)  
+Fortran/C
+
+(11)
+
+An exponential curve a line when the X-axis is plotted on log-scale.  
+A power-law curve is a line when both the X- and Y- axes are plotted on log-scale.
