@@ -299,14 +299,14 @@ Three different applications of Computational and Data Sciences
 
 The two types of reasoning in Science: Deductive and plausible reasoning
 
-Example of Deductive Reasoning:
-first premise: Noble gases are stable.
-second premise: Neon is a noble gas.
+Example of Deductive Reasoning:  
+first premise: Noble gases are stable.  
+second premise: Neon is a noble gas.  
 inference: Therefore, neon is stable.
 
 Example of Plausible Reasoning:
 
-A: It will start to rain by 10 am at the latest.
+A: It will start to rain by 10 am at the latest.  
 B: The sky will become cloudy before 10 am.
 
 if A is true then B is true
