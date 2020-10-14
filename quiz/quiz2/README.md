@@ -18,7 +18,7 @@ Answer: HomeWork Question number 5
 
 ## Question 5
 
-[<img src="questionNumber5.jpg" width="736"/>](questionNumber5.jpg)
+[<img src="questionNumber5.jpg" width="836"/>](questionNumber5.jpg)
 
 ## Question 6
 
