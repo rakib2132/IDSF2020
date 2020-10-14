@@ -281,15 +281,13 @@ To https://github.com/rakib2132/IDSF2020.git
 
 ```
 
-```
+## HomeWork number 2
 
-#HomeWork Number 2
-
-##Question number one
+## Question one
 
 The three pillars of science: Experiment, Theory, Computation+Data
 
-##Question number two
+## Question two
 
 Three different applications of Computational and Data Sciences
 
@@ -297,7 +295,7 @@ Three different applications of Computational and Data Sciences
 2. a substitute for experiment and observational data, where it is not available (numerical simulation).
 3. a substitute for theory, where it is not available (data-driven discovery via machine learning, deep learning, …).
 
-##Question number three
+## Question Three
 
 The two types of reasoning in Science: Deductive and plausible reasoning
 
@@ -315,7 +313,7 @@ if A is true then B is true
 B is true
 therefore, A become more plausible.
 
-##Question number Four
+## Question Four
 
 Lets summurize the series of argument first:
 
@@ -332,11 +330,10 @@ burglar alarm that raise the posibility in his mind that there is something susp
 Therefore, by combined all these argument we can say that it is highly plausible that
 this gentlemen is a burglar.
 
-##Question number Five
+## Question Five
 
 [<img src="question5.jpg" width="500"/>](question5.jpg)
 
-##Question number Six
-[<img src="question6.JPG" width="414"/>](question6.JPG)
+## Question Six
 
-```
+[<img src="question6.JPG" width="414"/>](question6.JPG)
