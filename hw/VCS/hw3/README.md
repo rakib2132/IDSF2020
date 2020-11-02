@@ -23,7 +23,7 @@
 
 ## Question Six
 
-[<img src="img06.JPG" width="414"/>](img06.JPG)
+[<img src="img06.jpg" width="414"/>](img06.jpg)
 
 ## Question Seven
 
