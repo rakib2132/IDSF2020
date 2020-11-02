@@ -27,17 +27,21 @@
 
 ## Question Seven
 
+```bash
 The Three fundamental desiderata of probability There are
 
 1. Degrees of plausibility are presented by real numbers.
 2. Qualitative correspondence with common sense.
 3. Consistency.
+```
 
 ## Question Eight
 
+```bash
 The four major schools of probability theory are
 
 1. Classical
 2. Empirical
 3. Subjective
 4. Axiomatic
+```
