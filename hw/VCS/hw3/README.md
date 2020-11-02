@@ -15,6 +15,7 @@
 ## Question Four
 
 [<img src="img04.jpg" width="500"/>](img04.jpg)
+[<img src="img04.1.jpg" width="500"/>](img04.1jpg)
 
 ## Question Five
 
