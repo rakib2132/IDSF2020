@@ -41,7 +41,7 @@ The Three fundamental desiderata of probability There are
 The four major schools of probability theory are
 
 1. Classical
-2. Empirical
-3. Subjective
-4. Axiomatic
+2. Bayesian
+3. Frequentist
+4. Propensity
 ```
