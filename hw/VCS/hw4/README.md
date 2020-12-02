@@ -22,11 +22,15 @@ The probability of obtaining a value 1 and 2 in a single experiment of throwing 
 
 ## Question 4
 
+```bash
 The probability of obtaining a value 1 or 2 or larger than 5 in a single experiment of throwing a die is 1/6+1/6+1/6=1/2.
+```
 
 ## Question 5
 
+```bash
 Poisson distribution.
+```
 
 ## Question 6
 
